@@ -1,0 +1,25 @@
+platformName: IOS
+deviceName: iphone 11 pro
+platformVersion: 13.2.3
+udid: 00008030-001419CC0AA2802E
+#deviceName: iPhone 7
+#platformVersion: 14.0
+#deviceName: Blocket iPad Air 2
+#udid: f7ac6daa6afafd25667eb63d4aa19012e05fcdc0
+#platformVersion: 13.2.2
+#platformVersion: 13.3.1
+#udid: f6ad9fdfd4e93514be6a082cc2930e787c115845
+#bundleId: Q.com.blocket.feature
+bundleId: com.blocket.blocket
+unicodeKeyboard: True
+noReset: false
+resetKeyboard: True
+autoGrantPermissions: True
+automationName: XCUITest
+newCommandTimeout: 60
+ip: 127.0.0.1
+port: 4723
+useNewWDA: true
+fullReset: false
+xcodeOrgId: 5K5Y9D3Y88
+xcodeSigningId: iPhone Developer
